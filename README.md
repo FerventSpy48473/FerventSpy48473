@@ -2,8 +2,13 @@
 <p align='center'>
 </p>
 
-- 👋 Hey, I’m Max
--  Main area FiveM
+- 👋 **Hey, I’m Max**
+- 📧 **How to reach me**
+  - **Discord: FerventSpy48473**
+
+# Main Area:
+![FiveM](https://img.shields.io/badge/FiveM-grey?logo=FiveM)
 
 # Languages and Tools:
 ![VisualBasic](https://img.shields.io/badge/Visual%20Basic%20Programm-grey?logo=gitforwindows)  ![Blender](https://img.shields.io/badge/Blender-grey?logo=blender)  ![Codewalker](https://img.shields.io/badge/Codewalker-grey?logo=openstreetmap)
+
